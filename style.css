@@ -1,0 +1,134 @@
+{margin:0;padding:0}
+
+/* Calling Fonts */
+
+@font-face{
+	
+	font-family:"leckerlione-regular-webfont";
+	
+	
+	src: url("font/leckerlione-regular-webfont.eot") format("eot"),
+	
+	url("font/leckerlione-regular-webfont.woff") format("woff"),
+	
+	
+	
+	url("font/leckerlione-regular-webfont.ttf") format("truetype"),
+	
+	
+	url("font/leckerlione-regular-webfont.svg") format("svg");
+	
+	
+}
+
+
+
+@font-face{
+	
+	font-family:"pollerone-webfont";
+	
+	
+	src: url("font/pollerone-webfont.eot") format("eot"),
+	
+	url("font/pollerone-webfont.woff") format("woff"),
+	
+	
+	
+	url("font/pollerone-webfont.ttf") format("truetype"),
+	
+	
+	url("font/pollerone-webfont.svg") format("svg");
+	
+	
+}
+
+/* Calling Fonts */
+
+
+
+.current{ color:teal; }
+
+.fix{ overflow:hidden;}
+
+
+.container{ max-width:960px;}
+
+.one{
+	
+	
+}
+
+
+.body{
+	
+	background:url(images/the-beacon.jpg) no-repeat;
+}
+
+
+.menu ul li a{}
+.menu ul li a:hover{}
+
+	p{
+		
+		text-align:justify;
+		font-size:14px;
+	}
+	
+	a{
+		display:block;
+		color:#000;
+		text-decoration:none;
+		padding:7px;
+		
+	}
+	
+	a:hover{
+		
+		text-decoration:none;
+	
+		
+	}
+	
+	
+.social a {
+    padding: 5px 13px;
+    display: inline-block;
+    margin: 0 7px;
+    /* overflow: hidden; */
+    border: 1px solid ghostwhite;
+}
+
+.social a:hover{background:teal;}
+	
+	body{
+		font-family:pollerone-webfont;
+	}
+	
+		.searchbar input{ border:0; padding:0; margin:0}
+
+		
+		
+		.h1s h1{ 
+    background: #000;
+    color: azure;
+    width: 88%;
+		}
+		
+		
+		.thumbnails img{ opacity:0.8; border:2px solid black; transition:.8s ease-in-out; }
+		.thumbnails img:hover{ opacity:1;  }
+		
+		.foot{ background:black;}
+		
+		.heading .h6{font-family:arial;font-size: 19px;}
+		.heading .h5{background:black; color:ghostwhite;font-size: 34px;}
+		
+		.nav-link{font-size: 14px;}
+		
+		
+		.blink{ background:black; margin:auto;}
+		
+		
+		.line{border:1px solid black;}
+		
+		
